@@ -1,0 +1,1 @@
+{"name":"Local: Stack","url":"d:\\C++\\DSA and cpp notes\\STL\\code\\Stack.cpp","tests":[{"id":1712351489688,"input":"5\n9\n8\n7\n6\n5","output":"5\n6\n7\n8\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\DSA and cpp notes\\STL\\code\\Stack.cpp","group":"local","local":true}

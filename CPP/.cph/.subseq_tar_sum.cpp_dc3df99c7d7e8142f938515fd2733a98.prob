@@ -1,0 +1,1 @@
+{"name":"Local: subseq_tar_sum","url":"d:\\C++\\DSA and cpp notes\\CPP\\subseq_tar_sum.cpp","tests":[{"id":1713692720532,"input":"3\n4 9\n3 5 6 7\n6 12\n2 3 3 4 6 7\n5 5\n1 2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\DSA and cpp notes\\CPP\\subseq_tar_sum.cpp","group":"local","local":true}

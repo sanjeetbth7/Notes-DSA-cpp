@@ -1,0 +1,1 @@
+{"name":"Local: subsequences","url":"d:\\C++\\DSA and cpp notes\\CPP\\subsequences.cpp","tests":[{"id":1713008370638,"input":"3\n1 2 3","output":""},{"id":1713692479186,"input":"4\n3 3 4 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\DSA and cpp notes\\CPP\\subsequences.cpp","group":"local","local":true}
